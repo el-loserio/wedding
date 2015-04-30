@@ -9,6 +9,7 @@ baseurl: "/wedding" # the subpath of your site, e.g. /blog/
 url: "http://el-loserio.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
+permalink: :title
 
 # Build settings
 markdown: kramdown

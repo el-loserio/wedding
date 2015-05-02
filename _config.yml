@@ -13,3 +13,7 @@ permalink: :title
 
 # Build settings
 markdown: kramdown
+
+sass_dir: _compass/
+gems:
+    - jekyll-compass

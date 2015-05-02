@@ -16,4 +16,9 @@ markdown: kramdown
 
 sass_dir: _compass/
 gems:
-    - jekyll-compass
+  - jekyll-compass
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

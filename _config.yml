@@ -2,9 +2,9 @@
 title: Flic & Steve Get Married!
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    We're getting married - Come and join us! Assuming you're invited that is.
+    If you don't know who we are, you're probably not invited. Sorry. Also, it's a bit odd
+    that you found this really.
 baseurl: "http://wedding.carlysle-davies.co.uk/" # the subpath of your site, e.g. /blog/
 permalink: :title
 

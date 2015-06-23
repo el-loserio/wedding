@@ -6,3 +6,4 @@ Gemfile.lock
 .exvim.*
 *.exvim
 .compass/
+deploy/

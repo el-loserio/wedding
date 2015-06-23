@@ -8,14 +8,20 @@
 @import "susy";
 
 $base-font-size: 16px;
-$base-line-height: 24px;
+$base-line-height: 6px;
 @include establish-baseline;
 
 $background: #ADD8E6;
 
-html { background: $background; }
+html {
+    background: $background;
+    @include adjust-leading-to(4);
+}
 body { @include container(60em); }
 h1, h2 {
     @include adjust-font-size-to(20px);
-    margin: rhythm(1, 20px) auto;
+    margin: rhythm(2, 20px) auto;
+}
+p {
+    margin: rhythm(1) auto;
 }

@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
     We're getting married - Come and join us! Assuming you're invited that is.
     If you don't know who we are, you're probably not invited. Sorry. Also, it's a bit odd
     that you found this really.
-baseurl: "http://wedding.carlysle-davies.co.uk/" # the subpath of your site, e.g. /blog/
+baseurl: "http://wedding.carlysle-davies.uk/" # the subpath of your site, e.g. /blog/
 permalink: :title
 
 # Build settings

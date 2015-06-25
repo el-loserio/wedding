@@ -2,27 +2,13 @@
 title: Flic & Steve get married!
 ---
 
-We're getting married!
-Come join us.
+We're getting married -- come join us!
 
-# Ceremony
+Oh, right, you probably need a bit more information than that. Luckily, I'm here to help. Read on ...
 
-The ceremony will be held at the Church of the Immaculate Conception, Maryhill.
+{% include_relative _partials/ceremony.md %}
+{% include_relative _partials/reception.md %}
+{% include_relative _partials/food.md %}
+{% include_relative _partials/music.md %}
+{% include_relative _partials/stats.md %}
 
-# Reception
-
-The reception will be at Killearn Village Hall.
-
-We'll probably provide some form of transport from the church to the hall, and then back into Glasgow.
-
-# Food
-
-Food will be provided by Three Sisters Bake.
-
-# Music
-
-There'll be a ceilidh.
-
-# Stats
-
-Total number of participants: 2

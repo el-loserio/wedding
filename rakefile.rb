@@ -19,7 +19,7 @@ task :deploy do
     system "git commit -m \"#{message}\""
 
     puts "## Pushing generated #{deploy_dir} website"
-    system "git push origin gh-pages --force"
+    system "git push origin gh-pages"
 
     puts "## Deploy Complete!"
   end

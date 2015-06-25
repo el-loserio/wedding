@@ -7,6 +7,10 @@ description: > # this means to ignore newlines until "baseurl:"
     that you found this really.
 baseurl: "http://wedding.carlysle-davies.uk/" # the subpath of your site, e.g. /blog/
 permalink: :title
+exclude:
+    - Gemfile.lock
+    - rakefile.rb
+    - deploy
 
 # Build settings
 markdown: kramdown

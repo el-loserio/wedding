@@ -1,4 +1,4 @@
-# Reception
+## Reception
 
 The reception will be at Killearn Village Hall.
 

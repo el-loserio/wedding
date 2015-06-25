@@ -22,6 +22,11 @@ h1, h2 {
     @include adjust-font-size-to(20px);
     margin: rhythm(2, 20px) auto;
 }
+h2 {
+    background-image: url(/images/heading.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 p {
     margin: rhythm(1) auto;
 }

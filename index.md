@@ -1,5 +1,5 @@
 ---
-title: Flic & Steve get married!
+title: Flic & Steve Get Married!
 ---
 
 We're getting married -- come join us!

@@ -11,5 +11,4 @@ The timetable's very provisional at the moment, but we're expecting it to be som
 * 8pm: Ceilidh
 * 12pm: Finish
 
-Again, the hall has parking, but we'll also probably provide a bus from the church to the hall, and back into Glasgow city centre at night.
-
+Again, the hall has parking, but we'll also probably provide a bus from the church to the hall, and back into Glasgow city centre at night (so let us know if provisionally you want to bag yourself a spot).

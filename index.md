@@ -4,7 +4,7 @@ title: Flic & Steve Get Married!
 
 We're getting married -- come join us!
 
-Oh, right, you probably need a bit more information than that. Luckily, I'm here to help. Read on ...
+Oh, right, you probably need a bit more information than that. Luckily, we're here to help. Read on ...
 
 {% include_relative _partials/ceremony.md %}
 {% include_relative _partials/reception.md %}

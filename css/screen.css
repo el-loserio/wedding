@@ -76,15 +76,17 @@ html {
 /* line 16, ../../_compass/screen.scss */
 html {
   background: #ADD8E6;
-  line-height: 1.5em;
+  line-height: 1.125em;
   font-family: 'Roboto Slab', serif;
 }
 
-/* line 21, ../../_compass/screen.scss */
+/* line 22, ../../_compass/screen.scss */
 body {
   max-width: 60em;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
 }
 /* line 12, ../../.gems/ruby/2.1.0/gems/susy-2.2.5/sass/susy/output/support/_clearfix.scss */
 body:after {
@@ -93,16 +95,17 @@ body:after {
   clear: both;
 }
 
-/* line 22, ../../_compass/screen.scss */
+/* line 27, ../../_compass/screen.scss */
 h1, h2 {
   font-size: 1.5em;
   line-height: 1.25em;
-  margin: 0.5em auto;
+  margin: 1em auto;
   text-align: center;
   font-family: 'Cherry Swash', cursive;
+  font-weight: bold;
 }
 
-/* line 28, ../../_compass/screen.scss */
+/* line 35, ../../_compass/screen.scss */
 h2 {
   background-image: url(/images/heading.png);
   background-repeat: no-repeat;
@@ -110,7 +113,14 @@ h2 {
   background-position: center;
 }
 
-/* line 34, ../../_compass/screen.scss */
+/* line 42, ../../_compass/screen.scss */
 p {
   margin: 0.375em auto;
+}
+
+/* line 46, ../../_compass/screen.scss */
+img, iframe {
+  max-width: 100%;
+  display: block;
+  margin: auto;
 }

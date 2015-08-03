@@ -1,7 +1,7 @@
 ## Ceremony
 
 For our ceremony, we wanted something that meant something to both of us.
-Since Steven's parents are from Maryhill, we're going to hold our ceremony at the church of Our Lady of the Immaculate Conception, and the ceremony will (hopefully) be carried out by Felicity's childhood priest, Fr. Kieron (possibly with the assistance of Fr. Jim) , who'll be flying up for the occasion.
+Since Steven's parents are from Maryhill, we're going to hold our ceremony at the church of Our Lady of the Immaculate Conception, and the ceremony will (hopefully) be carried out by Felicity's childhood priest, Fr. Kieron (possibly with the assistance of Fr. Jim) , who'll be flying up for the occasion. Don't worry we will be providing orders of service and it won't be a full nuptial mass.
 
 ![](/images/church.jpg)
 

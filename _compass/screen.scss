@@ -18,19 +18,33 @@ html {
     @include adjust-leading-to(4);
     font-family: 'Roboto Slab', serif;
 }
-body { @include container(60em); }
+
+body {
+    @include container(60em);
+    @include gutters(3em inside);
+}
+
 h1, h2 {
     @include adjust-font-size-to(24px);
     margin: rhythm(2, 24px) auto;
     text-align: center;
     font-family: 'Cherry Swash', cursive;
+    font-weight: bold;
 }
+
 h2 {
     background-image: url(/images/heading.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
 }
+
 p {
     margin: rhythm(1) auto;
+}
+
+img, iframe {
+    max-width: 100%;
+    display: block;
+    margin: auto;
 }

@@ -16,6 +16,7 @@ $background: #ADD8E6;
 html {
     background: $background;
     @include adjust-leading-to(4);
+    font-family: 'Roboto Slab', serif;
 }
 body { @include container(60em); }
 h1, h2 {

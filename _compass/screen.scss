@@ -15,7 +15,7 @@ $background: #ADD8E6;
 
 html {
     background: $background;
-    @include adjust-leading-to(4);
+    @include adjust-leading-to(3);
     font-family: 'Roboto Slab', serif;
 }
 
@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
     @include adjust-font-size-to(24px);
-    margin: rhythm(2, 24px) auto;
+    margin: rhythm(4, 24px) auto;
     text-align: center;
     font-family: 'Cherry Swash', cursive;
     font-weight: bold;

@@ -77,9 +77,10 @@ html {
 html {
   background: #ADD8E6;
   line-height: 1.5em;
+  font-family: 'Roboto Slab', serif;
 }
 
-/* line 20, ../../_compass/screen.scss */
+/* line 21, ../../_compass/screen.scss */
 body {
   max-width: 60em;
   margin-left: auto;
@@ -92,14 +93,24 @@ body:after {
   clear: both;
 }
 
-/* line 21, ../../_compass/screen.scss */
+/* line 22, ../../_compass/screen.scss */
 h1, h2 {
-  font-size: 1.25em;
-  line-height: 1.2em;
-  margin: 0.6em auto;
+  font-size: 1.5em;
+  line-height: 1.25em;
+  margin: 0.5em auto;
+  text-align: center;
+  font-family: 'Cherry Swash', cursive;
 }
 
-/* line 25, ../../_compass/screen.scss */
+/* line 28, ../../_compass/screen.scss */
+h2 {
+  background-image: url(/images/heading.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+/* line 34, ../../_compass/screen.scss */
 p {
   margin: 0.375em auto;
 }

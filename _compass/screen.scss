@@ -25,14 +25,14 @@ body {
 }
 
 h1, h2 {
-    @include adjust-font-size-to(24px);
-    margin: rhythm(4, 24px) auto;
-    text-align: center;
     font-family: 'Cherry Swash', cursive;
     font-weight: bold;
 }
 
 h2 {
+    @include adjust-font-size-to(24px);
+    margin: rhythm(4, 24px) auto;
+    text-align: center;
     background-image: url(/images/heading.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -47,4 +47,36 @@ img, iframe {
     max-width: 100%;
     display: block;
     margin: auto;
+}
+
+header {
+    text-align: center;
+    img {
+        width: 20em;
+        max-width: 100%;
+    }
+    span.header {
+        @include adjust-font-size-to(24px);
+    }
+    @include susy-breakpoint(40em) {
+        span.header {
+            @include adjust-font-size-to(36px);
+        }
+        .middle { display: none; }
+        .left {
+            position: relative;
+            top: -15em;
+            left: -11em;
+        }
+        .right {
+            position: relative;
+            top: -15em;
+            left: 10em;
+        }
+    }
+    @include susy-breakpoint(50em) {
+        span.header {
+            @include adjust-font-size-to(48px);
+        }
+    }
 }

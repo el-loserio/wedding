@@ -97,16 +97,16 @@ body:after {
 
 /* line 27, ../../_compass/screen.scss */
 h1, h2 {
-  font-size: 1.5em;
-  line-height: 1.25em;
-  margin: 1em auto;
-  text-align: center;
   font-family: 'Cherry Swash', cursive;
   font-weight: bold;
 }
 
-/* line 35, ../../_compass/screen.scss */
+/* line 32, ../../_compass/screen.scss */
 h2 {
+  font-size: 1.5em;
+  line-height: 1.25em;
+  margin: 1em auto;
+  text-align: center;
   background-image: url(/images/heading.png);
   background-repeat: no-repeat;
   background-size: contain;
@@ -123,4 +123,49 @@ img, iframe {
   max-width: 100%;
   display: block;
   margin: auto;
+}
+
+/* line 52, ../../_compass/screen.scss */
+header {
+  text-align: center;
+}
+/* line 54, ../../_compass/screen.scss */
+header img {
+  width: 20em;
+  max-width: 100%;
+}
+/* line 58, ../../_compass/screen.scss */
+header span.header {
+  font-size: 1.5em;
+  line-height: 1.25em;
+}
+@media (min-width: 40em) {
+  /* line 62, ../../_compass/screen.scss */
+  header span.header {
+    font-size: 2.25em;
+    line-height: 1.16667em;
+  }
+  /* line 65, ../../_compass/screen.scss */
+  header .middle {
+    display: none;
+  }
+  /* line 66, ../../_compass/screen.scss */
+  header .left {
+    position: relative;
+    top: -15em;
+    left: -11em;
+  }
+  /* line 71, ../../_compass/screen.scss */
+  header .right {
+    position: relative;
+    top: -15em;
+    left: 10em;
+  }
+}
+@media (min-width: 50em) {
+  /* line 78, ../../_compass/screen.scss */
+  header span.header {
+    font-size: 3em;
+    line-height: 1.125em;
+  }
 }

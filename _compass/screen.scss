@@ -91,7 +91,7 @@ header {
 .page-content {
     background-image: url(/images/water.jpg);
     background-size: 100%;
-    .wrapper p:first-child { margin-top: 0 };
+    .wrapper :first-child { margin-top: 0 };
 }
 
 section {

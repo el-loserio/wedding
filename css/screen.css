@@ -185,13 +185,14 @@ header span.header {
 .page-content {
   background-image: url(/images/water.jpg);
   background-size: 100%;
+  overflow: auto;
 }
-/* line 94, ../../_compass/screen.scss */
+/* line 95, ../../_compass/screen.scss */
 .page-content .wrapper :first-child {
   margin-top: 0;
 }
 
-/* line 97, ../../_compass/screen.scss */
+/* line 98, ../../_compass/screen.scss */
 section {
   background: rgba(255, 255, 255, 0.5);
   padding-top: 1.5em;

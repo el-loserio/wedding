@@ -95,10 +95,31 @@ header {
     .wrapper :first-child { margin-top: 0 };
 }
 
-section {
+section, nav {
     background: rgba(255, 255, 255, 0.5);
     @include rhythm-padding();
     @include rhythm-margins();
     padding-left: gutter();
     padding-right: gutter();
+}
+
+    a {
+        font-family: 'Cherry Swash', cursive;
+        color: black;
+    }
+
+nav {
+    ul {
+        overflow: auto;
+    }
+    li {
+        display: block;
+        float: left;
+        width: 10em;
+        background-image: url(/images/atom.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        padding-left: rhythm(1.25);
+        margin-bottom: rhythm(0.5);
+    }
 }

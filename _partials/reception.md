@@ -1,4 +1,5 @@
 ## Reception
+<a name="reception"/>
 
 After the ceremony, we're going to be moving on to the reception at the lovely Killearn Village Hall, with picturesque views of the surrounding Campsies.
 

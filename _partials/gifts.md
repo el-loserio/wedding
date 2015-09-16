@@ -1,4 +1,5 @@
 ## Gifts
+<a name="gifts"/>
 
 While we really don't want anyone to feel that they must get us a gift, we keep getting asked about a gift list so here is the info.
 

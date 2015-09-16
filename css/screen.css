@@ -193,7 +193,7 @@ header span.header {
 }
 
 /* line 98, ../../_compass/screen.scss */
-section {
+section, nav {
   background: rgba(255, 255, 255, 0.5);
   padding-top: 1.5em;
   padding-bottom: 1.5em;
@@ -201,4 +201,26 @@ section {
   margin-bottom: 1.5em;
   padding-left: 5.26316%;
   padding-right: 5.26316%;
+}
+
+/* line 106, ../../_compass/screen.scss */
+a {
+  font-family: 'Cherry Swash', cursive;
+  color: black;
+}
+
+/* line 112, ../../_compass/screen.scss */
+nav ul {
+  overflow: auto;
+}
+/* line 115, ../../_compass/screen.scss */
+nav li {
+  display: block;
+  float: left;
+  width: 10em;
+  background-image: url(/images/atom.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 1.875em;
+  margin-bottom: 0.75em;
 }

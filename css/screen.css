@@ -193,7 +193,7 @@ header span.header {
 }
 
 /* line 98, ../../_compass/screen.scss */
-section, nav {
+section, nav, .site-footer {
   background: rgba(255, 255, 255, 0.5);
   padding-top: 1.5em;
   padding-bottom: 1.5em;
@@ -215,12 +215,27 @@ nav ul {
 }
 /* line 115, ../../_compass/screen.scss */
 nav li {
-  display: block;
-  float: left;
+  display: inline-block;
   width: 10em;
   background-image: url(/images/atom.png);
   background-repeat: no-repeat;
   background-size: contain;
   padding-left: 1.875em;
   margin-bottom: 0.75em;
+}
+
+/* line 126, ../../_compass/screen.scss */
+.site-footer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 0;
+  padding: 1em;
+}
+/* line 132, ../../_compass/screen.scss */
+.site-footer a {
+  background-image: url(/images/beaker.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 1.125em;
 }

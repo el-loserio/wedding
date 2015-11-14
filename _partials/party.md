@@ -1,4 +1,16 @@
 ## Wedding Party
 <a name="party"/>
 
-<!-- Possibly this could be done as a Facebook-style conversation -->
+### The Bride: Felicity
+
+### The Groom: Steven
+
+### Bride's Parents: Bob & Terry
+
+### Groom's Parents: Michael & Margaret
+
+### Best Man: Gary
+
+### Bridesmaids: Nicola, Tina & Vicky
+
+### Ring-bearer: Jamie

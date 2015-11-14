@@ -4,6 +4,7 @@
 ### The Bride: Felicity
 
 ### The Groom: Steven
+Steven is a computer nerd
 
 ### Bride's Parents: Bob & Terry
 

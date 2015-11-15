@@ -23,7 +23,7 @@ In short Steven is one of a kind and sorry ladies he is off the market.
 ### Bride's Parents: Bob & Terry
 
 ### Groom's Parents: Michael & Margaret
-Michael and Margaret have been very welcoming since they first met Felicity over a New Year's Day pie. There is always a can of full fat Coke or Irn Bru waiting for her in their fridge and they very politely don't mention when it is very obvious that she and Steven have come over to visit the puppy rather than them. 
+Michael and Margaret have been very welcoming since they first met Felicity over a New Year's Day pie. There is always a can of full fat Coke or Irn Bru waiting for her in their fridge and they very politely don't mention when it is very obvious that she and Steven have come over to visit the puppy rather than them. They are very generous and have made a real effort to make Felicity part of the family, although this may backfire if the house purchase falls through and she takes them up on the offer to move in.
 
 
 ### Best Man: Gary

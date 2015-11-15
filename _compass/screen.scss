@@ -121,7 +121,6 @@ section, nav, .site-footer {
 dt {
     float: left;
     clear: left;
-    width: 15em;
     background-image: url(/images/atom.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -129,6 +128,7 @@ dt {
     margin-bottom: rhythm(0.5);
     &:after {
         content: ":";
+        padding-right: 1em;
     }
 }
 dd {

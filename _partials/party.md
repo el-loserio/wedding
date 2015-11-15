@@ -4,7 +4,7 @@
 ### The Bride: Felicity
 
 ### The Groom: Steven
-Steven is a computer nerd, luckily for him Felicity thinks that this is one of his most endearing features (and meant she had a really nicely formatted Thesis). Aside from his ability to photoshop the heads of animals onto the bodies of other animals, Felicity also fell in love with his caring nature and ability to make her laugh. He is a great cook with his Burn's night supper being the unmissable event of the year, and any post wedding weight gain will be due to him being forced to make his delicious (but highly calorific) White chocolate and raspberry cheesecake on a weekly basis. 
+Steven is a computer nerd, luckily for him Felicity thinks that this is one of his most endearing features (and meant she had a really nicely formatted Thesis). Aside from his ability to photoshop the heads of animals onto the bodies of other animals, Felicity also fell in love with his caring nature and ability to make her laugh. He is a great cook with his Burn's night supper being the unmissable event of the year, and any post wedding weight gain will be due to him being forced to make his delicious (but highly calorific) white chocolate and raspberry cheesecake on a weekly basis. In short Steven is one of a kind and sorry ladies he is off the market.
 
 ### Bride's Parents: Bob & Terry
 

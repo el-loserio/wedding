@@ -7,10 +7,10 @@ Don't worry about remembering it all, Steven will probably recycle most of it in
 ### The Bride: Felicity
 
 Felicity is smart, sweet, caring and dedicated to the things she believes in.
-Steven first met Felicity at Strathclyde when they were both doing their PhDs and involved in the GIST, a science magazine.
+Steven first met Felicity when they were both doing their PhDs and involved in the GIST, a science magazine.
 Obviously, this shared interest should have led to love at first sight, but instead Steven decided Felicity was "a bit posh", and promptly made no effot to get to know her for several months.
-Fate wouldn't keep them apart however, and when Steven started going along to the post-graduate society, which Felicity later became president of, he started to realise quite how awesome she was.
-What followed was a long period of Steven perhaps working a bit harder for the society than he would have otherwise, and trying to impress her with a selection of baked goods.
+Fate wouldn't keep them apart however, and when Steven started going along to the post-graduate society, which Felicity became President of, he started to realise quite how awesome she was.
+What followed was a long period of Steven working a bit harder for the society than he would have otherwise, and trying to impress her with a variety of baked goods.
 Amazingly, this strategy eventually paid off, and since they got together, they've seen each other through some hard times, and some amazing times, including Felicity proving just how much she loved him by proof-reading his thesis.
 Felicity's ability to make Steven happy just by being there, her sense of humour and loving nature have proved just how lucky he was, and will be for the rest of his life.
 
@@ -25,14 +25,15 @@ In short Steven is one of a kind and sorry ladies he is off the market.
 
 ### Bride's Parents: Bob & Terry
 
-Worried about the prospect of meeting Felicity's parents, Steven had in fact tried to sweeten them up four months in advance by sending them down some home-made shortbread for Christmas.
+Worried about the prospect of meeting Felicity's mum and dad, Steven tried to sweeten them up four months in advance by sending them down some home-made shortbread for Christmas.
 He needn't have worried however, as Bob & Terry welcomed him into the family right from the off (either that or the shortbread worked).
-Since then, Steven has seen time and time again how much they care about Felicity, and what good parents they are.
-He's hoping that he can prove their trust in him to take care of their daughter is well-placed, and is looking forward to being part of their family for many years to come, even if it does mean a massive increase in the amount of conversations about castles he has to take part in.
+Since then, Steven has seen just how much they care about Felicity, and what good parents they are.
+He's hoping that he can prove their trust in him is well-placed, and is looking forward to being part of their family for many years to come, despite the increase in the number of conversations about castles he has to take part in.
 
 ### Groom's Parents: Michael & Margaret
-Michael and Margaret have been very welcoming since they first met Felicity over a New Year's Day pie. There is always a can of full fat Coke or Irn Bru waiting for her in their fridge and they very politely don't mention when it is very obvious that she and Steven have come over to visit the puppy rather than them. They are very generous and have made a real effort to make Felicity part of the family, although this may backfire if the house purchase falls through and she takes them up on the offer to move in.
-
+Michael and Margaret have been very welcoming since they first met Felicity over a New Year's Day pie.
+There is always a can of full fat Coke or Irn Bru waiting for her in their fridge and they very politely don't mention when it is very obvious that she and Steven have come over to visit the puppy rather than them.
+They are very generous and have made a real effort to make Felicity part of the family, although this may backfire if the house purchase falls through and she takes them up on the offer to move in.
 
 ### Best Man: Gary
 

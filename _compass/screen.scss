@@ -19,7 +19,7 @@ html {
     @include gutters(3em inside);
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: 'Cherry Swash', cursive;
     font-weight: bold;
 }
@@ -32,6 +32,12 @@ h2 {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
+}
+
+h3 {
+    @include adjust-font-size-to(20px);
+    margin: rhythm() auto;
+    text-align: center;
 }
 
 p {

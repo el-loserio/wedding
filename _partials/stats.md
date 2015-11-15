@@ -1,4 +1,4 @@
-## Stats
+## Steven's Stats
 <a name="stats"/>
 
 <dl>

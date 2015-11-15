@@ -1,6 +1,9 @@
 ## Wedding Party
 <a name="party"/>
 
+Since many of you won't know everyone involved in the wedding, we thought we'd tell you a little bit about everyone.
+Don't worry about remembering it all, Steven will probably recycle most of it in his speech.
+
 ### The Bride: Felicity
 
 Felicity is smart, sweet, caring and dedicated to the things she believes in.
@@ -22,6 +25,11 @@ In short Steven is one of a kind and sorry ladies he is off the market.
 
 ### Bride's Parents: Bob & Terry
 
+Worried about the prospect of meeting Felicity's parents, Steven had in fact tried to sweeten them up four months in advance by sending them down some home-made shortbread for Christmas.
+He needn't have worried however, as Bob & Terry welcomed him into the family right from the off (either that or the shortbread worked).
+Since then, Steven has seen time and time again how much they care about Felicity, and what good parents they are.
+He's hoping that he can prove their trust in him to take care of their daughter is well-placed, and is looking forward to being part of their family for many years to come, even if it does mean a massive increase in the amount of conversations about castles he has to take part in.
+
 ### Groom's Parents: Michael & Margaret
 Michael and Margaret have been very welcoming since they first met Felicity over a New Year's Day pie. There is always a can of full fat Coke or Irn Bru waiting for her in their fridge and they very politely don't mention when it is very obvious that she and Steven have come over to visit the puppy rather than them. They are very generous and have made a real effort to make Felicity part of the family, although this may backfire if the house purchase falls through and she takes them up on the offer to move in.
 
@@ -29,7 +37,7 @@ Michael and Margaret have been very welcoming since they first met Felicity over
 ### Best Man: Gary
 
 Gary and Steven became friends over the course of second-year Latin class, where they shared an interest in playing table football and not paying much attention to Latin.
-That friendship persisted all through school, university and beyond, despite living many miles from each other for several years, and over time their shared interests grew to include wrestling, hill-walking, beer, boardgames, and an unhealthy interest in maths stats and maths jokes.
+That friendship persisted all through school, university and beyond, despite living many miles from each other for several years, and over time their shared interests grew to include wrestling, hill-walking, beer, boardgames, and an unhealthy interest in maths, mainly maths jokes.
 
 Neither of them remembers any Latin.
 

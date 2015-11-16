@@ -18,40 +18,43 @@ Steven no longer works quite as hard to impress her, but she does still demand b
 
 ### The Groom: Steven
 
-Steven is a computer nerd, luckily for him after getting to know him better Felicity thinks that this is one of his most endearing features (and meant she had a really nicely formatted Thesis).
-Aside from his ability to photoshop the heads of animals onto the bodies of other animals (play 'Galapa Go!' if you struggle to see the appeal), Felicity also fell in love with his caring nature and ability to make her laugh and managed to see past his like of bands she had never heard of and love of maths puns.
+Steven is a computer nerd, but luckily for him after getting to know him better, Felicity thinks that this is one of his most endearing features (and meant she had a really nicely formatted thesis).
+Aside from his ability to photoshop the heads of animals onto the bodies of other animals (play 'Galapa Go!' if you struggle to see the appeal), Felicity also fell in love with his caring nature and ability to make her laugh.
+She even managed to see past his like of bands she had never heard of and love of maths puns.
 He is a great cook with his Burn's night supper being the unmissable event of the year, and any post wedding weight gain will be due to him being forced to make his delicious (but highly calorific) white chocolate and raspberry cheesecake on a weekly basis.
-In short Steven is one of a kind and sorry ladies he is off the market.
+
+In short Steven is one of a kind and sorry ladies, he is off the market.
 
 ### Bride's Parents: Bob & Terry
 
 Worried about the prospect of meeting Felicity's mum and dad, Steven tried to sweeten them up four months in advance by sending them down some home-made shortbread for Christmas.
-He needn't have worried however, as Bob & Terry welcomed him into the family right from the off (either that or the shortbread worked).
+He needn't have worried however, as Bob & Terry welcomed him into the family right from the start (either that or the shortbread worked).
 Since then, Steven has seen just how much they care about Felicity, and what good parents they are.
 He's hoping that he can prove their trust in him is well-placed, and is looking forward to being part of their family for many years to come, despite the increase in the number of conversations about castles he has to take part in.
 
 ### Groom's Parents: Michael & Margaret
 Michael and Margaret have been very welcoming since they first met Felicity over a New Year's Day pie.
-There is always a can of full fat Coke or Irn Bru waiting for her in their fridge and they very politely don't mention when it is very obvious that she and Steven have come over to visit the puppy rather than them.
+There is always a can of full fat Coke or Irn-Bru waiting for her in their fridge and they very politely don't mention when it is very obvious that she and Steven have come over to visit the puppy rather than them.
 They are very generous and have made a real effort to make Felicity part of the family, although this may backfire if the house purchase falls through and she takes them up on the offer to move in.
 
 ### Best Man: Gary
 
 Gary and Steven became friends over the course of second-year Latin class, where they shared an interest in playing table football and not paying much attention to Latin.
-That friendship persisted all through school, university and beyond, despite living many miles from each other for several years, and over time their shared interests grew to include wrestling, hill-walking, beer, boardgames, and an unhealthy interest in maths, mainly maths jokes.
+That friendship persisted all through school, university and beyond, despite living many miles from each other for several years.
+Over time their shared interests grew to include wrestling, hill-walking, beer, boardgames, and an unhealthy interest in maths, mainly maths jokes.
 
 Neither of them remembers any Latin.
 
 ### Bridesmaids: Nicola, Tina & Vicky
 
 Nicola and Felicity became friends when doing their PhDs at Strathclyde.
-During this time they bonded over a love of Irn Bru and Dominos pizza and had several adventures including traveling across Lake Geneva on a paddle steamer (and somehow convincing the uni to pay for it).
+During this time they bonded over a love of Irn-Bru and Domino's pizza and had several adventures including traveling across Lake Geneva on a paddle steamer (and somehow convincing the uni to pay for it).
 
 Tina had the misfortune to be stuck in the PhD office while on a year long placement.
 Despite being a smelly undergrad she was welcomed into the fold and has become a source of great support and rude jokes.
 
 Vicky has known Felicity since school and despite this they are still friends.
-Having started the friendship having long chats via MSN messenger this switched to Facebook messenger and watching Downton Abbey with each other despite being at opposite ends of the country – technology at its finest.
+Having started the friendship having long chats via MSN messenger, this switched to Facebook messenger and watching Downton Abbey with each other despite being at opposite ends of the country – technology at its finest.
 
 ### Ring-bearer: Jamie
 

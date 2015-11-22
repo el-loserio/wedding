@@ -247,7 +247,7 @@ dd {
 li {
   background-image: url(/images/atom.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: auto 1.5em;
   padding-left: 1.875em;
   margin-bottom: 0.75em;
 }

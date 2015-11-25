@@ -4,6 +4,7 @@ $(document).ready(function(){
         'Joy Division – Love Will Tear Us Apart',
         'Gram Parsons – Streets Of Baltimore',
         'Fleetwood Mac – Go Your Own Way',
+        'Outkast – Hey Ya!',
     ];
     $('#first-dance').text(songs[Math.floor(Math.random() * songs.length)]);
 });

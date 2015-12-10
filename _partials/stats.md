@@ -4,9 +4,9 @@
 <dl>
 <dt>Total number of participants</dt><dd>2</dd>
 <dt>Average age of participants</dt><dd>29.5</dd>
-<dt>Total RSVPs received</dt><dd>35 (as of 4/12/15)</dd>
-<dt>Average time to reply</dt><dd>3.49 days</dd>
-<dt>Average distance to travel</dt><dd>1510 km</dd>
+<dt>Total RSVPs received</dt><dd>50 (as of 10/12/15)</dd>
+<dt>Average time to reply</dt><dd>5.8 days</dd>
+<dt>Average distance to travel</dt><dd>1046 km</dd>
 <dt>Time until wedding</dt><dd><span id="countdown">9187728</span> micro-fortnights</dd>
 <dt>Number of people who read this far</dt><dd>~ 4</dd>
 <dt>Number of made-up statistics on this page</dt><dd>1</dd>

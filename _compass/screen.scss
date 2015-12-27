@@ -119,23 +119,17 @@ a {
 }
 
 dt {
-    float: left;
-    clear: left;
-    background-image: url(/images/atom.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    padding-left: rhythm(1.25);
-    margin-bottom: rhythm(0.5);
+    display: inline;
     &:after {
         content: ":";
         padding-right: 1em;
     }
 }
 dd {
-    margin-bottom: rhythm(0.5);
+    display: inline;
 }
 
-li {
+li, dl div {
     background-image: url(/images/atom.png);
     background-repeat: no-repeat;
     background-size: auto rhythm(1);

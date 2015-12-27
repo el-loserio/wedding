@@ -2,14 +2,14 @@
 <a name="stats"/>
 
 <dl>
-<dt>Total number of participants</dt><dd>2</dd>
-<dt>Average age of participants</dt><dd>29.5</dd>
-<dt>Total RSVPs received</dt><dd>82 (as of 22/12/15)</dd>
-<dt>Average time to reply</dt><dd>9.8 days</dd>
-<dt>Average distance to travel</dt><dd>738 km</dd>
-<dt>Time until wedding</dt><dd><span id="countdown">9187728</span> micro-fortnights</dd>
-<dt>Number of people who read this far</dt><dd>~ 4</dd>
-<dt>Number of made-up statistics on this page</dt><dd>1</dd>
-<dt>Number of dinosaurs on this page</dt><dd>2</dd>
+<div><dt>Total number of participants</dt><dd>2</dd></div>
+<div><dt>Average age of participants</dt><dd>29.5</dd></div>
+<div><dt>Total RSVPs received</dt><dd>82 (as of 22/12/15)</dd></div>
+<div><dt>Average time to reply</dt><dd>9.8 days</dd></div>
+<div><dt>Average distance to travel</dt><dd>738 km</dd></div>
+<div><dt>Time until wedding</dt><dd><span id="countdown">9187728</span> micro-fortnights</dd></div>
+<div><dt>Number of people who read this far</dt><dd>~ 4</dd></div>
+<div><dt>Number of made-up statistics on this page</dt><dd>1</dd></div>
+<div><dt>Number of dinosaurs on this page</dt><dd>2</dd></div>
 </dl>
 

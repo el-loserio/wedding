@@ -224,27 +224,21 @@ a {
 
 /* line 121, ../../_compass/screen.scss */
 dt {
-  float: left;
-  clear: left;
-  background-image: url(/images/atom.png);
-  background-repeat: no-repeat;
-  background-size: contain;
-  padding-left: 1.875em;
-  margin-bottom: 0.75em;
+  display: inline;
 }
-/* line 129, ../../_compass/screen.scss */
+/* line 123, ../../_compass/screen.scss */
 dt:after {
   content: ":";
   padding-right: 1em;
 }
 
-/* line 134, ../../_compass/screen.scss */
+/* line 128, ../../_compass/screen.scss */
 dd {
-  margin-bottom: 0.75em;
+  display: inline;
 }
 
-/* line 138, ../../_compass/screen.scss */
-li {
+/* line 132, ../../_compass/screen.scss */
+li, dl div {
   background-image: url(/images/atom.png);
   background-repeat: no-repeat;
   background-size: auto 1.5em;
@@ -252,17 +246,17 @@ li {
   margin-bottom: 0.75em;
 }
 
-/* line 147, ../../_compass/screen.scss */
+/* line 141, ../../_compass/screen.scss */
 nav ul {
   overflow: auto;
 }
-/* line 150, ../../_compass/screen.scss */
+/* line 144, ../../_compass/screen.scss */
 nav li {
   width: 10em;
   display: inline-block;
 }
 
-/* line 156, ../../_compass/screen.scss */
+/* line 150, ../../_compass/screen.scss */
 .site-footer {
   position: fixed;
   bottom: 0;
@@ -270,7 +264,7 @@ nav li {
   margin: 0;
   padding: 1em;
 }
-/* line 162, ../../_compass/screen.scss */
+/* line 156, ../../_compass/screen.scss */
 .site-footer a {
   background-image: url(/images/beaker.png);
   background-repeat: no-repeat;

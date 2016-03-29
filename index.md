@@ -14,6 +14,7 @@ title: Felicity & Steven Get Married!
         <li><a href="#music">Music</a></li>
         <li><a href="#accommodation">Accommodation</a></li>
         <li><a href="#gifts">Gifts</a></li>
+        <li><a href="#brunch">Sunday Brunch</a></li>
         <li><a href="#stats">Stats</a></li>
     </ul>
 </nav>
@@ -25,4 +26,5 @@ title: Felicity & Steven Get Married!
 {% section _partials/music.md %}
 {% section _partials/accommodation.md %}
 {% section _partials/gifts.md %}
+{% section _partials/brunch.md %}
 {% section _partials/stats.md %}
